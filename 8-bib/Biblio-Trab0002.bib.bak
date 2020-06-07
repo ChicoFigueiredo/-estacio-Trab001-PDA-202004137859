@@ -1,16 +1,45 @@
 % Encoding: UTF-8
 
-@Online{AgenciaBrasilia20200424Horta,
-  author  = {Agência Brasilia},
-  editor  = {Agência Brasilia},
-  date    = {2020-04-28},
-  year    = {2020},
-  title   = {Acordo estuda forma para recolhimento de eletroeletrônicos},
-  url     = {https://www.agenciabrasilia.df.gov.br/2020/04/28/acordo-estuda-forma-para-recolhimento-de-eletroeletronicos/},
-  urldate = {2020-05-16},
-  year    = {2020},
+@Online{Bossa2017,
+  author = {Nadia Bossa},
+  date   = {2017},
+  editor = {YouTube},
+  title  = {ROTEIRO DE OBSERVAÇÃO - Parte I - Como iniciar um diagnóstico psicopedagógico},
+  url    = {https://www.youtube.com/watch?v=CgekJby5hqk},
+  year   = {2017},
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
+@Online{Birthday2020,
+  author = {Idol Birthday},
+  date   = {2020-06-07},
+  editor = {Idol Birthday},
+  title  = {ZABETTA MACARINI Idol Birthday},
+  url    = {https://www.idolbirthdays.com/zabetta-macarini},
+}
 
-@Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:D:\\Estudar\\#01-Matematica\\01-Aspectos.Antropologicos.Sociologicos.Educacao\\Trab001;}
+@Book{Aberastury1981,
+  author   = {Arminda Aberastury; Mauricio Knobel},
+  date     = {1981-05-31},
+  subtitle = {Um enfoque psicanalítico},
+  title    = {Adolescência normal},
+  year     = {1981},
+}
+
+@Article{Sousa2017,
+  author       = {Brenda Cardoso De Sousa; José Milton De Carvalho Neto; Ana Paula Andrade Silva; Milene Martins},
+  date         = {2017-07-04},
+  journaltitle = {Even3},
+  title        = {A INFLUÊNCIA DOS YOUTUBERS NA PERSONALIDADE DO ADOLESCENTE: APRENDIZAGEM OBSERVACIONAL},
+  url          = {https://www.even3.com.br/anais/mpct2017/47446-a-influencia-dos-youtubers-na-personalidade-do-adolescente--aprendizagem-observacional/},
+  urldate      = {2020-06-07},
+  year         = {2017},
+}
+
+@Book{Vigotskii2010,
+  author = {Lev Semenovich Vigotskii},
+  date   = {2010},
+  title  = {Linguagem, Desenvolvimento e Aprendizagem},
+  year   = {2010},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
