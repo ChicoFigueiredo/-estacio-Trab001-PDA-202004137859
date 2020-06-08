@@ -42,4 +42,11 @@
   year   = {2010},
 }
 
+@Book{Ivic2010,
+  author = {Ivan Ivic; Edgar Pereira Coelho},
+  date   = {2010},
+  title  = {Lev Semionovich Vygotsky},
+  year   = {2010},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

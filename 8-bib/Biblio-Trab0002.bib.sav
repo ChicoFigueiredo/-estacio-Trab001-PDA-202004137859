@@ -49,4 +49,11 @@
   year   = {2010},
 }
 
+@Book{Carraro2015,
+  author = {Patrícia Carraro},
+  date   = {2015-12-31},
+  title  = {Psicologia do desenvolvimento e aprendizagem},
+  year   = {2015},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
