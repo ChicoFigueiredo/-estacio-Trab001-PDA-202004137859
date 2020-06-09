@@ -56,4 +56,14 @@
   year   = {2015},
 }
 
+@Article{,
+  author       = {Bruno César Simões Costa},
+  date         = {2009},
+  journaltitle = {Revista do programa de pós-grar},
+  title        = {Personagens de si nas videografias do YouTube},
+  url          = {https://uakari.org.br/eco_pos/article/view/958/898},
+  urldate      = {2020-06-08},
+  year         = {2009},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
