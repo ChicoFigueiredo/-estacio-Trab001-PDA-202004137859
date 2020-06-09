@@ -56,14 +56,20 @@
   year   = {2015},
 }
 
-@Article{,
+@Article{Costa2009,
   author       = {Bruno César Simões Costa},
   date         = {2009},
-  journaltitle = {Revista do programa de pós-grar},
+  journaltitle = {Revista do programa de pós-graduação em comunicação e cultura da escola de comunicação da UFRJ},
   title        = {Personagens de si nas videografias do YouTube},
   url          = {https://uakari.org.br/eco_pos/article/view/958/898},
   urldate      = {2020-06-08},
   year         = {2009},
+}
+
+@Article{Schoffen2019,
+  author = {Miqueli Schoffen;Luciane Pereira Viana},
+  date   = {2019},
+  title  = {INFLUÊNCIAS ESTABELECIDAS ENTRE OS YOUTUBERS ANA MARIA BROGUI EDANIELLE NOCE E SEUS SEGUIDORES},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
